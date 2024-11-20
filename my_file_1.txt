@@ -1,0 +1,1 @@
+This is a new file and it is created to check how to take remote repository's changes to local repo by using git pull command.
